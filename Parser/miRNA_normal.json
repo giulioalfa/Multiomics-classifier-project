@@ -1,0 +1,1402 @@
+[{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "c32e04c5-2760-4a11-a7a9-ded1f4eb3a8c", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "001849ca-b214-471c-bcdf-b1e64e6637f4.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50301
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a8764401-d2a5-45dd-941d-2ffb2e7a4664", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "d397583f-03fa-4c8e-af10-4cfad44ad7c9.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50244
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "7d905f8f-3967-4ea8-96c8-17b1b03fbec3", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "c4ae6ed7-70d3-4f37-bbcf-30c9e1c968bd.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50360
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "3d5a904a-3834-45bf-9212-c06d46d917f9", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "7e771d95-f5e0-4895-b6c5-cb6626111e18.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50402
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a3583ffc-adb9-40f5-8ec5-8a4f6f432220", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "c3aa6352-e24f-4f59-9d4e-d9451be0e427.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50293
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "bef26f5e-a17e-49b7-8eb4-2bc079983764", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "1708596c-93c5-41eb-9291-62025d81af0f.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50269
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "9dff11cd-0784-4a60-9c77-43f8957d3dfa", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "c7e70987-fab4-4443-bf9d-a4f28b0ba9b2.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50298
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "43ea8913-abfe-495d-a909-d57da13d1a27", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "08f0a31e-e6d3-4337-9b7f-bcb7e37fac99.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50398
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "c7b23a5a-c49a-4426-bd4e-b191f4227ac6", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "0ab8ae70-56d3-4ebd-9094-71b3165faa61.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50464
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "9c7875ad-ab71-4d48-b2e3-e4c7a46393e9", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "3030272f-723b-4d68-9263-aeed6c23d1cb.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "11bf6231-393c-53ba-87d0-d350fbd4655f"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50213
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "9b38eded-3f46-4aaa-9991-68008d97bdbe", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "ca2103a3-79cd-46de-8e48-d74f396be37f.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "d34849bc-6fce-584d-a1ff-47edb2452d86"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50214
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "a534b96b-1665-444a-9308-e610f2f0e510", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "b7a508dd-6a32-456d-910e-6f3fe75856d3.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50219
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f40301ba-831e-4afd-9ce8-5f3c1a05ff7e", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "888c9616-312f-4792-a4e6-3a759e6b5384.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50149
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "0b31dbdf-0623-48e4-a0ec-017650dceda7", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "c6c77422-6c55-4935-acb2-43ff5f523601.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "abcb6298-b535-591c-bc76-292712a37158"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50174
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "3768cf73-e389-449a-bde3-29eb20c9e249", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "31cbb30d-6f39-436a-a323-6a9e85bba8f3.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50270
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "fb79c491-7b01-42ae-8369-8364e442e31b", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "3e2478c8-d006-4546-9a5f-a9e6489d2f1a.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50074
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "ebcba7f2-ce13-4bae-97cd-91a6b1dcd465", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "bda7b530-af0c-4358-b939-13655eb9ff48.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "55b271ba-fec1-5307-aaa7-af97cb2941cc"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50170
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "86b165c2-d0e6-4a4f-84ed-aa95e3133627", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "333d85dc-a78e-468f-b417-e60ed09bc804.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50360
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "b0818bee-c32c-405c-ba09-956091fbe09b", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "963b7ea3-9b81-40f5-a236-0ebd8873008f.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50297
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "7b236171-2e7a-4018-b297-560ea8279ec0", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "301d23ce-dcfc-48e5-ac45-2e9e5bc94cbe.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50484
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "059212b3-9e71-4d00-863f-3639c4e30ed1", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "d32cae8b-c58e-48d5-bd97-43014893f296.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50328
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "05534064-8b43-4c82-95da-70fd83bd6560", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "8345f95c-269f-476b-82a5-0630ee50b97b.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50189
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "2f39441b-e69f-488c-b5d0-cbd88447ad60", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "d3d06ac0-da91-4ce6-8bdd-84dda00e5914.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50424
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "2cc8743a-e759-4250-82be-893376933930", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "48bcc992-c830-436c-9312-0c15f3ffdafa.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50381
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "eca4bfa2-5ba5-4708-959a-d901c1b61edd", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "edde7540-be78-4b76-8fe1-50896a506a5a.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50386
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "7d8d5dff-bdc1-4000-bc52-1fc3be3f6da4", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "c9c81633-df1a-4377-aeac-01750f1f4e3f.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50363
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "37a0ab12-44af-4815-b7cc-961d44851470", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "c6903237-c137-40d8-ba54-936099ab81d2.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50390
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "cf9d5813-da70-4d7f-8185-d29d1b86b578", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "ad29232f-e5e5-4206-8ab3-cf45ac0c49e1.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50424
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "14b159f8-c31b-4e2a-a76d-fe32026e85bb", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "40e17e5d-bacd-4a36-b3d7-0510172290f1.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50385
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "dea2269f-7e15-4ea1-88a4-2314a819c731", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "51cd1aac-de27-49a4-9264-2e9ad80ab449.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50346
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "03016c31-a2eb-4a04-9e98-f10e0c64fe9e", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "499fb488-9d2e-4e6f-af8a-952bee8d71ef.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50374
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "1f084d72-fbf9-4787-b107-815b481b1a6e", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "a5c6c4ff-8964-4285-8b00-653c335acb98.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50450
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "4036c6fc-c82e-47bb-a384-6f299dc30b52", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "9167ab60-f09a-4de9-b827-91c282cd3ba7.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50153
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "5abd6651-69be-42f8-bdc0-308e68136d31", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "8b5c41d3-63a1-402a-9657-36d305ebfbc2.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50203
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f3501466-cf32-4866-b5fb-e94dd32341bc", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "be90c334-4caa-4d97-95cc-f5f4f8208b50.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "3fc6e3a4-d46d-511c-b0be-0bc262da7fd5"
+    }, 
+    {
+      "annotation_id": "7f8edfca-2b65-5a79-b1d6-221947ae8b85"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50108
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "ebb33753-9d38-4368-9033-3e55f129d00d", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "f4956d88-4146-49b2-9a96-ad57b3b5f97a.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "0628cb1e-8e12-5e3e-9e0e-7f2870c0fa2e"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50154
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "9fcdccae-676e-4071-93c3-23d2d3ab0c00", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "5911b3b7-4477-40fe-b69d-c000867a38c1.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "971e52ea-8863-5b70-b9c6-7e468e3d1092"
+    }, 
+    {
+      "annotation_id": "e38d7b94-2f9d-5940-b3c2-e18b541af368"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50128
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "0e515ab8-99f9-43d9-a621-8fe9ede828ec", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "bf506c07-72b1-40df-b950-43c22e342d91.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "39be9d13-fed2-5c06-bc9e-5cf98e694e69"
+    }, 
+    {
+      "annotation_id": "76b109e9-f9f6-5cb3-b985-d0df574cfb30"
+    }, 
+    {
+      "annotation_id": "b9749204-2ce5-5c70-9254-df0dee34537a"
+    }, 
+    {
+      "annotation_id": "4cdcf7a1-e0a4-5cce-898a-9c650411543a"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50302
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "46cc3a2b-91c9-4a74-8989-992585634b87", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "30b00ddd-4aa8-4417-b26e-284e44cd7e84.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50354
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "ffb0c0b7-165e-4439-b3e6-62431f40b7fe", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "dc2eb494-e316-4600-95be-19efc91ee2ca.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50176
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "9c894668-88f5-4308-a1c0-6b8acc6aaaec", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "f4c7e201-e8c3-4f08-bc88-802007cc88a5.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50193
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "3bd6badb-27ff-4d8d-b206-4d28dc264862", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "5f0feb17-4be7-4144-9625-423d89eae22d.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50131
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "c2a1de2e-6451-4c95-8ce6-263f2b7e6eff", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "6abf035b-c4b7-4f11-b75d-73ca19dea554.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "7f4eedeb-65ec-5c67-836c-372aec7d04ce"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50191
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "7eb540b4-8dd3-4382-a488-e48b1c7213b3", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "bb7b5b83-056e-4c44-90fd-e50ed3b64e16.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50154
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "15340dd3-84ae-49fb-989a-eb212f3e73da", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "d1d2233c-9c95-4e38-90ae-a0137bfb4aab.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50067
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "b86b1616-20a2-4300-8daa-03dcc9938215", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "110fa573-76d1-4db3-bcd9-b83bb23bd368.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50206
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "e739b4f7-ae46-45c6-9013-9571cbadaf99", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "63b366ed-7d97-4f5d-8236-ffa23d5b98a8.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50143
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "055e9a43-3c00-4110-a303-e4407676bec0", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "7d106bf8-d663-4fe6-9834-3ce0dcda7cf8.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50214
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "294cb595-0907-44c7-bbef-985a27c1e6e2", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "17692abf-23c4-4a8d-bca7-d1f5fc50d9d2.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "ad2b3be7-23e1-5017-bf03-ffecf06e170f"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50146
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "21fb46f9-4bbb-441c-af19-a687e9138344", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "d9e52c67-ed95-43d9-8a0b-240dbf6f08a8.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "4c29bc63-a45e-5b35-b26f-bbbe493ea89d"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50217
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "cbfef004-b437-4d51-9d88-a2db50aa6481", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "cf055912-bdef-44ac-bc4b-d9bdbc51e3ab.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "6d097feb-1d30-5bd7-9945-6551a99a0af3"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50203
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "9f55bb37-4211-4e91-88ea-7b1d4f286598", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "f1345c11-190c-4bb4-bd84-bad9e6de8b35.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50310
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "b5e2cbda-bbfa-4ef8-a9c4-cb978bef9b23", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "d74cf656-f5e4-494c-9beb-caf32e504372.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50398
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "14313474-376f-4606-9ed9-25ed2acff411", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "bd8f3850-cb27-4a2c-a269-fb98c82ab90c.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50405
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "b162b3bf-8097-4466-b08f-6434f541038f", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "1bd2acd0-4e20-479c-9599-970c176d94f8.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50342
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "4b22ad71-c585-4077-ad3c-c6e026d0c7fa", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "a779feff-90ba-4f56-969f-eada0896ab07.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50207
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "a7911bdc-13f1-434a-bfa3-f8ba55d15846", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "316961b4-184c-4573-ab88-b94fff02ca76.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50266
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "5d5cc436-6e57-4d23-a164-7f5153c2e666", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "83c90ddf-86be-4aa3-ae73-eac2bcac7994.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50335
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "69dba721-a168-47a4-b7ff-80a448bad654", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "726b35f2-cf44-41f0-9525-d9c56e95a807.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "2455f4d8-9b14-5dfb-9cc9-2c2f1f5d205a"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50181
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "368e23f0-e573-4547-bf5a-14080baf737b", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "3eb5e846-cffa-4548-a2b6-248a94674cd5.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50157
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "47cbb242-a356-43ba-95c3-0b0c9ef90fbf", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "e407e20b-fbbc-4ef7-ad23-0e7bb5446607.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50268
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "fa019da0-068c-4d28-a8f6-28b8e79f3a5a", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "c35f9862-76f4-4bf8-b0de-324af7ac1607.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50408
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "cdab8ae1-d0e5-4a85-901e-2b05c63fa2b9", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "9a2f125c-7437-4638-ad9f-21882f315afa.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50341
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "9ee64a87-7224-461c-94da-29710d73164f", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "1baf68c6-5049-4e84-baa7-264839e0c740.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "49e9f868-bd53-59ab-a673-30239352fd06"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50357
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "513c5f34-dc6e-4caa-81cc-907fd6a825b1", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "ed387714-f27a-4b0c-84de-e01c9fdb26aa.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "f0a7ee98-09aa-5c46-b88a-66a09176c408"
+    }, 
+    {
+      "annotation_id": "53ccabc5-0c89-5e55-a267-130dd021d9ff"
+    }, 
+    {
+      "annotation_id": "75e180f1-4216-591f-8bd4-426e923d0778"
+    }, 
+    {
+      "annotation_id": "9bf047b4-bcfc-5bfc-bc42-584a1efd09b4"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50294
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "0e91d7b5-ce35-4671-ab9f-cfd5369b557c", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "53f9326c-7c3b-4f44-8942-5edcf62b522a.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50413
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a6ec75d4-1c90-4527-bfae-aa91d2dae082", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "a7924a92-8823-45c0-935e-36970ac8050e.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "8bcb79b5-ab14-5fc5-96bf-8903afef3c21"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50368
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "8bb3ed57-6e48-4c90-bcf2-baf9a843398f", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "c8c07408-6337-471f-a422-404cccc044ef.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50319
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "4daf4a91-bc36-40c8-8fca-ea61b6706775", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "0f3f7c52-449b-464c-af57-7c759afb4e71.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50276
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "afedf3fb-fc77-45a7-bdcd-2c78706a0f8a", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "61634ced-305a-4335-baf6-6acbab279845.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "4be0d3d1-4984-5e2b-93cf-01ea922bd5a2"
+    }, 
+    {
+      "annotation_id": "af9a333d-a068-5868-901e-020e697444e8"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50285
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "bd3bf142-7c14-4538-8a76-3c6e140fa01a", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "c42ad331-8fbb-4594-84cc-4d7a9e9e6769.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "3a9dce2d-0088-5ce2-9d8a-8af8399e491d"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50320
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "dbece124-c042-4adc-8136-90e7940ee6ad", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "cc21ad4b-183c-490b-80ab-ec24348b7eab.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "1d3c65b7-db4a-59a4-994b-af13849709da"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50269
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "7a0ea814-f0de-4bc4-a81a-daa000559369", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "36899d7a-8e6b-4907-9b11-5380bc35c470.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50149
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "2f09479f-87fc-4c34-8e2c-333e970a3681", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "78ec4cda-26a0-41cf-9bfa-1e69ae2beab5.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50210
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "07b5663f-9a54-4462-b6c1-6fc8116b8714", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "5cd968a0-9bd4-48d0-9a07-cd460d2f49f4.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50056
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "923b37e4-fcf7-46a0-8cb2-9139711fec7b", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "03f54564-65bb-4561-ad33-ec78b883c217.mirbase21.mirnas.quantification.txt", 
+  "annotations": [
+    {
+      "annotation_id": "4d7d2dd5-0286-5604-8818-73f1d69030cd"
+    }
+  ], 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50109
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "ab9e6815-4d13-44db-93e5-553eb4f5bc95", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "262e9a3a-998d-48fb-b948-9c7ecaa9acf9.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50209
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "22302e92-fdfa-462a-9249-efdaa26ee5ed", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "22e7e8f8-94da-4bf8-9a9a-a2c33fc3c6f9.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50281
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "ccfdad76-cc45-447f-bed8-ede8f6a8844d", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "5c0b9478-30b0-4217-b5c1-14ae9bc54fdc.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50212
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "bab43415-d413-40be-a4c0-2c40a52afe6a", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "dfc2507b-2fab-4a95-8a7f-7b1115d877ef.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50137
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "ff07ea4b-4e50-410d-99d6-96a351dad7b1", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "a3c89195-e8f9-4d4c-a44d-68c5f530c798.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50198
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "cc68632c-b1e3-491b-b562-9468e2d1c101", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "da6f74c6-84e2-4252-b598-c601e881028b.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50178
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "7f6455e8-fa3d-4452-acb2-8c9995073072", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "14e41141-da72-4939-a056-f3589b5c7663.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50249
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "1f0a5312-0590-4230-9da9-fd0cfe693586", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "2288a1aa-8f29-4a29-a619-2c49fde819ae.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50044
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "b2bc53d6-ef78-4ae9-a6b5-1c7cad9a43eb", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "eb5c4332-cf82-4e1d-b609-9644b81efcc4.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50123
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "a391d49f-a822-460b-981c-6fbe1868ee38", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "01382490-42b0-4007-adb9-1a536fa9553a.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50154
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "349e6f38-2c67-4a69-a777-b9173a2a27cf", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "64e1bd59-d30d-43cb-8450-30a7400bfb5f.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50057
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "77c4dbb2-eceb-4e0d-bcde-63dc817d5f35", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "5ee1aadd-029d-4ab5-85c1-fb10f4299884.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50125
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "1ccd29c1-cf30-4701-9b50-5d34cae2f4b3", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "c94076d9-0fee-4bfa-b399-00670b3d1a7b.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50433
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "3336ee77-a6f6-4d3a-93f9-585ebc48ffba", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "cc1b6fdb-bf6d-436c-8c58-31857cef8a34.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50301
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "23421041-fc75-4610-8a59-3246fb6df7e8", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "6f359c4a-1b30-4693-8583-3050b0774b95.mirbase21.mirnas.quantification.txt", 
+  "data_category": "Transcriptome Profiling", 
+  "file_size": 50362
+}]

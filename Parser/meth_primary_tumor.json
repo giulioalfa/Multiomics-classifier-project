@@ -1,0 +1,3951 @@
+[{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "037c57d1-b4a5-45dc-bda4-0550461d321b", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-22-1016-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "7e7ded28-1fbd-5e12-96ad-863c85d56d50"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953222
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "3f43c83e-c2a2-4224-9da0-0757b9c7d4ca", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-51-4081-01A-01D-1096-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953155
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "4a81f496-bf8e-43e8-8332-9aaef09f485f", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-37-3792-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950046
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "ae39e358-08d7-4367-ae68-82b469e791e4", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-73-4675-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951450
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "fd9ee494-65fe-4de4-adff-7952a059b17f", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2698-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "41dcddf7-14fd-5a61-b454-f4b616db539e"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952944
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "96006f5e-5922-4e55-afa5-5e43773d72f2", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-22-1002-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "c8ae55fe-f478-53f0-b5a9-bdb0b9b40907"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952127
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "12bd70f5-2542-48cb-b296-ae9241b38f7f", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2734-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952271
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "99599b60-4f5c-456b-8755-371b1aa7074e", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3410-01A-01D-0979-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "423792a5-fac5-5bed-abed-036b5e5102a6"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9946991
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "ec10dc91-2743-4e0c-af77-2f0105bf6a9e", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-46-3765-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951040
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "0c80ab20-7e33-4f1d-b136-07782b68e98b", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-22-4604-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952406
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "4fbf2497-0774-4599-8c90-1961612b8e3a", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-66-2800-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953937
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "da61857a-b00e-4a19-ab02-8fbb2ee56bea", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-34-2600-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9954502
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "18058bfb-a008-410f-8e04-7c2b45a856b7", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-22-1011-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "4cf7fe36-8a21-5476-8e16-7b469cc082b8"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951516
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "d539844b-d65d-41e6-a8f0-fa884df118bc", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2753-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950883
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "ec260f86-7186-4bf2-9de9-320b4ca155a4", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-46-3766-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950862
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "6ee6ca0a-8702-480d-b2d1-9224e7dd9211", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-33-4532-01A-01D-1198-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "adb72207-762b-506a-888d-efec13980126"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953294
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "dca4c540-897f-435b-9ee2-8f5b2e8734c6", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2758-01A-02D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951578
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "8a235eb8-d67d-49fe-a473-1777eb7e7c60", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-37-3783-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951834
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "8d20352a-6180-40d0-adc0-c87fef854dfa", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-66-2794-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951726
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "3c56a43a-91f1-4a66-9cfe-d2e26b86a936", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-22-1005-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "24c27c83-af5f-5f66-9120-d836d3584316"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950613
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "ac89e063-a288-4516-9d9e-92cc0ed2bc24", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-37-4130-01A-01D-1096-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952049
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "6eb61cab-8e83-4c18-a59a-ae0985ec9d2e", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3416-01A-01D-0979-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "89dce91c-3189-50de-9770-364e25a94a9b"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950835
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "0398eae1-7216-4595-80a5-6b117d96e070", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1083-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "43363c6b-3ce3-5d71-9128-411fe0753672"
+    }, 
+    {
+      "annotation_id": "87459e2b-8afe-5bae-9a5c-dbaa9bb21480"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9954292
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "b4ff0f49-b787-48ec-91cc-ee26786ff1bf", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-33-4533-01A-01D-1198-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "baaa1c5c-4de7-574c-88fb-385fed3ef996"
+    }, 
+    {
+      "annotation_id": "85347fe8-f8df-5129-9fdb-10526e2c1cd1"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952948
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "25f64b80-0672-4980-9875-956b1699309b", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-22-1017-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "9b1c3d57-f929-58d2-8764-626e5209897a"
+    }, 
+    {
+      "annotation_id": "40f39321-ed5a-5c0c-a37e-19dcb47b4841"
+    }, 
+    {
+      "annotation_id": "c9a6ff03-605f-50a6-8ebe-e8acf46a86de"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951521
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "90b02be3-5496-40a2-8c6e-460d2898aadb", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2782-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951950
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "0ab8d063-62b4-4d47-82aa-e3351a60029d", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1078-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "76fb9ebd-1589-5e66-8372-dc4a17989b27"
+    }, 
+    {
+      "annotation_id": "f98e0a0a-ac30-5696-9e7b-1f56771af577"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9955616
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "6ab57144-16ea-4844-b737-e726787d23b9", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-22-1012-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "b0bb03b4-1a11-5480-b46a-d682cc46bc2c"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952599
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "da93a143-5799-4856-a5f4-3ff3b9284311", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2795-01A-02D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951952
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "32c86f17-34c3-406b-85c5-4f5965619247", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2765-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952591
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "d4bc755a-2585-4529-ae36-7e1d88bdecfe", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3408-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949619
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "ce8612ab-3149-4a6a-b424-29c0c21c9b8b", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-43-3394-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951519
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "4c806d29-1674-4542-9f30-5c9a0fc184c4", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-18-4086-01A-01D-1096-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952047
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "791f1b21-695e-4db1-b41d-80590c09d257", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-66-2773-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951593
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "bcd78677-98d5-4403-8313-e1fbd76e8ef7", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2721-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "df550648-7c63-579a-bfe9-1c106995173e"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953299
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a02932f3-5606-42a5-aee4-e5b9f5aa1aaa", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2757-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9954034
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "e6b72c24-1607-43b9-8b8a-7bf83eea5895", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2759-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951633
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "ce94e544-8887-479f-83cd-27b1c740e4c2", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2785-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952294
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "fd881d58-c9c7-479b-b76b-1f3c2ab1b015", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-37-3789-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9926780
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "2ca47049-bc12-4992-b9cf-1c01dda639be", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2708-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952876
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "9335e4df-9974-47ec-84c4-256cd33522f2", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-34-2605-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "e1d64486-e732-52e1-8a30-6ca8ee3c40e5"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952875
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "b5cdf68a-9903-4f82-9017-ab88d2b73d4f", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z018-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9945643
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "53d7b0c2-b8ed-43c8-9ffd-a586e0a68086", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z006-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9938068
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "31c96e35-5e2f-429c-b12a-7bc5a497a300", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4398-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951571
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "4c31127e-d095-4978-9dac-35153c27f6ed", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-73-4666-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949112
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "d2c1e896-6886-4122-bb48-5fbcd3f641f4", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4418-01A-01D-1205-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "0e96fb37-7bf2-5553-89e3-46787e70b0df"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951730
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "e44e279b-103e-436e-8988-1139b000bdfd", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z022-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949757
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "009be09b-f9f6-43b7-8f45-4a648f8123ce", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-67-3773-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951129
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "25c9f984-1a5a-4cca-9ad1-39f759ea7174", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z039-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950337
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "d6a08727-affd-4a59-837b-ea71741d7f09", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z049-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950999
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "87eeaf49-3c02-402f-9ae4-3627391e7749", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z028-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950567
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "b3c31fdc-26a7-4b39-8127-8006307eb1f5", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z040-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951474
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "d717fa33-3c91-4ced-89c6-79ff5542f04c", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-38-4627-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951757
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "fddc4d29-1ae8-451d-a13e-8ef6492be201", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z030-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9947486
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "44adf4cb-2829-4153-80fd-a8b7ee0e654a", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-35-4122-01A-01D-1104-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951912
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f3501466-cf32-4866-b5fb-e94dd32341bc", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-44-2661-01A-01D-1104-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "3fc6e3a4-d46d-511c-b0be-0bc262da7fd5"
+    }, 
+    {
+      "annotation_id": "7f8edfca-2b65-5a79-b1d6-221947ae8b85"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950718
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "cf411fc0-0cce-42d2-ae79-24de1a105c05", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z023-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949204
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "ffb0c0b7-165e-4439-b3e6-62431f40b7fe", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-44-3398-01A-01D-1104-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950958
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "1f11de87-a5fe-49fd-80c1-e279b2bc69de", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2711-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "dc4880ad-131a-50e6-91be-6408f9ca3a35"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952569
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "f1a1bbf9-4751-4fb4-8a2b-19f8d4ba57bd", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3411-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951510
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a33f0741-2161-4818-89f2-ec8ccae57949", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-18-4083-01A-01D-1096-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "9aa0942d-42fb-5ec6-84fc-27f197b06d4d"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952881
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "e487c72f-2cb4-4a88-bd69-cd006d5b4c1a", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2788-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9948570
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "f3e67161-1532-4b50-a9b5-0da80410c4d7", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2715-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "31e4ad04-e845-59e2-80dd-52284248aaac"
+    }, 
+    {
+      "annotation_id": "73dd1e0f-6aab-5984-8209-cff9b8415690"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952779
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "d49b0369-905c-4608-96a9-cc854980fc4c", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2781-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953470
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a3e1ac67-a1f2-44fb-8343-a7e8239fc24a", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2724-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953689
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "211bb982-16f4-4f07-b24f-e633703f24c4", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-22-4591-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953083
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f98ecd8a-b878-4f53-b911-20cd8e17281c", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-05-4250-01A-01D-1104-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950742
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "36bf02f8-c1c8-49f9-a417-adf88a205c70", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4426-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951984
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "4432a02d-91de-4a7d-875f-684865f3c95d", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z027-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949402
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "175cb088-9b10-4fa9-95c0-7837fdc7bcf9", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z037-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950803
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "a56d2b48-375d-4193-91a9-f589c39523fb", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z021-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950828
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "0147edcf-0ca5-4136-bd01-43d05e2843f4", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z038-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9939622
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "1b354837-4925-4480-ac32-6b44d0957314", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-73-4670-01A-01D-1205-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "e2671578-04c1-5aac-a347-a44aec1bba66"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951557
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "6313c7cb-5631-42b2-93e2-592f86e84551", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z036-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950246
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "c6d78e27-e510-4f57-abae-19efa6105a8d", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-49-4494-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951481
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "220be009-8f1e-4a77-ab04-3220b5f87ea6", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1076-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "55ceba47-3147-5a7e-82b3-8efa607c06a8"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951740
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "3d6a027b-dfda-42b3-9323-407e42cf6d10", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2737-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9945441
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "95c4c851-6ca3-4416-90ed-73f46f211583", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-37-4129-01A-01D-1096-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953360
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "acae4e48-57de-40c5-9ae5-4386144ebaea", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2695-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "225dd3cc-f361-5f72-b721-40ce47845b1b"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952232
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "23e65963-d9f3-4cec-953c-4dd06f7d8668", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-66-2777-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953025
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "34d5d8b7-9737-43fa-86fe-7c2885c787cf", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3421-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951445
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "220be009-8f1e-4a77-ab04-3220b5f87ea6", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1076-01A-02D-0689-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952613
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "d020e685-0435-4b0a-b03f-45853e1c6eed", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z032-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9931340
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "42ca54fc-c1ae-41cd-bca1-7fe9810db460", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-44-2656-01A-02D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949198
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "aebd0313-23be-46a8-abc6-b16c531c3a8e", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z001-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9937958
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f86e1da7-bad6-4eb8-ae4c-fa9421308d47", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z043-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949550
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "6d72de06-232a-4983-a06c-eba6d82cb3f1", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-55-1594-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953278
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "07b5663f-9a54-4462-b6c1-6fc8116b8714", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-44-2655-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951200
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "69e43922-e028-4090-8724-1fb2f018c7f2", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2769-01A-02D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951799
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "f516991c-5139-4b3e-b605-5a3d90688209", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1077-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "c53f22b1-677b-5528-a438-39d5390e2c68"
+    }, 
+    {
+      "annotation_id": "0e54c4b6-b4ab-5978-97e9-82ecf9a5ab46"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952720
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "d5e14ef5-1b78-4498-a2e2-77070c83eb7f", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-66-2783-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950915
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "9a874b64-d0d6-416e-97bc-e9071ed0b16b", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3415-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951425
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "1535c8ab-100d-4886-8598-12a94483d010", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2771-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950464
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "b28e3be1-9843-4204-b999-b3e2a909c7bd", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2710-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "2bca53c1-903e-5b39-a4e8-d1628acc901f"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952886
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "3d1f4059-2220-45b4-a4d2-b14f76cec96a", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2726-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953345
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "9af6ed4e-8cdc-4f49-84e9-ba1053b5b3ca", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-66-2793-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952372
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "c70a5975-c37b-47cc-9113-427a754807d8", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-33-4538-01A-01D-1198-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "05f490f0-6924-5cbb-968e-6312f7c00fd4"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953729
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "cee6e9f6-6d7e-4096-a9bc-2cce004fb218", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-34-2604-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "309745e2-4989-5faf-8e3f-89329c79c574"
+    }, 
+    {
+      "annotation_id": "bfb5d173-4061-508e-bbb8-12faa3829974"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952536
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "44c56277-37e5-47a9-b476-d8475ef477ca", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-34-2608-01A-02D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951085
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "b913d254-8307-4b8a-8313-d978e32bb38f", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2766-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952688
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a402e786-132c-4095-bb75-22be04b5d835", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-46-3768-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951910
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "2afa2fd8-e4d9-4e7b-b387-7e2451764d5d", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1081-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "eb38d658-dfb0-5e24-856e-423d1d1e4419"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952957
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "705a4688-f10f-4e6a-aed9-6efc3b3b9989", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2714-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "ef36b235-9903-5360-84be-f8425edde1f8"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950809
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "637e900e-64ab-4bff-82b9-3ba6b5632f35", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2754-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952547
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "986ced10-52b9-43b4-84ad-96013a657f1b", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-22-4594-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950670
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a9d7adec-3849-40e2-a2a2-f43443ec43bb", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2786-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951980
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "50b2c647-aecd-4c81-af22-0d8116593552", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-49-4507-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952504
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "abf6eb5f-fa06-4032-8cff-c8522b0a3c9a", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z047-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9947537
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "ccda26c1-a6d6-4317-8cf8-8a87e15ce12e", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-44-2662-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953072
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f29b5aef-d53e-457d-b140-b0b5fd1960bc", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z062-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951053
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "6dfd47d2-831a-4386-9051-f78199a16bb5", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4397-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951580
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "a5d0c704-2888-4cff-805e-4bbe4636117c", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z019-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9946953
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "a41c46da-7ed4-4192-bd16-b3cbb94a5133", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-55-1592-01A-01D-0945-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "2bff563b-fc3e-5e0e-82c8-00aed85f6004"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951963
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "3a23cdb5-2327-45ac-b0b5-d4afe038c757", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4430-01A-02D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950866
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "294ff941-aea1-4588-9a0e-e9f5393e2bb6", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-73-4662-01A-01D-1205-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "0365ba15-1b97-57a1-a38d-598be7dc4e21"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949563
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "67b5fb5d-2484-4aa5-aa7c-c6c5ecbc91b2", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z048-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9941846
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "0ea4920f-f4c8-4590-84b3-eb419824e144", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-38-4625-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951545
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "19ca36e6-2154-4224-89b1-117a4a4407f6", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z050-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950620
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "b61abdfd-b7a0-4e1a-b570-d1eaecad3a9e", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-49-4506-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949792
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "e16ca88f-488b-40f0-9169-e5a62482a2ff", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-44-2666-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950833
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "6e3b6b72-142d-4b8d-a462-28a205796e41", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-44-3918-01A-01D-1104-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950145
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "abb86d09-d4ff-41f4-ba22-185dc48347c9", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z025-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9945709
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "d94fe32f-bedd-4f4c-9feb-fcb60d40f4bb", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4434-01A-01D-1205-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "d2037039-65d6-5842-9baa-c6398b3cab50"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950168
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "c8802713-b814-4b55-993f-3ffebf8c3ab8", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3412-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950599
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "d4608593-20cb-4b53-b037-39aa8ddd05b7", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-22-4596-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950800
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "1f6b2aca-7357-40d1-ba7a-99227d9900a2", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-37-4135-01A-01D-1096-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9954723
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "e998a607-ac73-4849-afaa-57eee49cf051", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z000-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952340
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "dcf8e752-e95c-4087-a0f5-c041787c8569", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z011-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951211
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "654affac-f8ed-40bb-9f9f-a293227b06a6", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z010-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9942579
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "3037e91e-213e-43e3-92e4-2fcd68988bde", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z007-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9947273
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "4999df33-3a47-4feb-a264-c5d71b271d8c", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z024-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950272
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "4addf05f-3668-4b3f-a17f-c0227329ca52", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-05-4249-01A-01D-1104-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951871
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "0d96def2-cf0a-4659-94e5-f08744c57cc6", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z004-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9943431
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "088edf89-d2b5-40c7-b066-df3bd383f7ea", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-49-4505-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951865
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "df7c9193-0bd2-4fd9-8ae1-1f9d341e92c5", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-22-0944-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "fb0e85dc-0833-52a5-a937-c6715f94e8a0"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953763
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "337e77b3-7f58-4f92-96a4-c764b1ebfa56", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2720-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951902
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a355bad1-bb49-4de5-892b-691ed0022d91", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2742-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951917
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "67a2593d-b986-4f84-a51c-7f2fb12e54ad", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z044-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951624
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "2dca3588-51e1-48f7-8c9b-7b7e53c3fb33", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z053-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949712
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f4b83449-7d0e-49f3-be53-81cf0d485ed8", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z061-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952077
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "3650e5b2-ef58-4b14-97b2-8698f2c160f8", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z058-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9941796
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "fb6b289c-aaf9-4d8e-b6e0-5d35bce1b6e1", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-64-1676-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951568
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "4b5ff30e-65fc-4434-b174-9d699594c658", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z005-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9942895
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "c43c8eea-7014-4abe-b805-397a9062d3e0", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z031-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9941356
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "3d2aa654-1b5f-4eb4-a1c2-af31f5760069", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4420-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9946544
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "a16d7bf7-07b7-4320-969c-fc68dd564a92", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z033-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9947635
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "5730b09c-a69f-425a-8af9-61172f9dfe56", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z020-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951161
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "d3f8c35d-5197-43fa-a243-2baf9c44cf74", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2768-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952720
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "ad112acb-d241-48a0-8e48-d69cdc3feba8", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-43-2581-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950445
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "174cdc32-e94a-4829-b6b7-df560de55be2", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2767-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950591
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "7ddd36fd-9e6a-4a46-a799-82998786cb36", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-22-0940-01A-01D-0689-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952668
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "f355cd59-eaa9-46c7-ab07-b90a7afc875c", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2712-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "6ef5c71f-ea3c-55dc-8550-37d1b67606d7"
+    }, 
+    {
+      "annotation_id": "db4acac7-abc7-5a9b-87c8-5134f318147a"
+    }, 
+    {
+      "annotation_id": "1240dcbc-c58b-56c5-83a1-2bb1bc9e4b37"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952216
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "3edf933a-be1a-46e8-bfb0-acdff30e64a0", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-56-1622-01A-01D-0689-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9954713
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "95b83006-02c9-4c4d-bf84-a45115f7d86d", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3406-01A-01D-0979-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "425f042c-0d60-51be-8ffc-69b39c3b4ad4"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950752
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "fde60f9f-5cff-405e-b0f6-e193195ebd53", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1075-01A-01D-0689-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953889
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "af1d9d69-0a45-4ad3-9873-57fbe4a4b895", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3414-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953012
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "d87e30a3-1b5a-41cf-bafe-27914a01c8d9", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1071-01A-01D-0689-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952606
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "40dc2edc-4bde-441d-8fc5-8ce1bd42f267", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2792-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9944208
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "6394fe4a-6034-4c79-b28f-aa43e3753730", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1072-01A-01D-0689-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951570
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "5860a9f1-30e8-4833-99bb-a6863e78914b", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2727-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950591
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "cc4bd56a-25c5-4c48-b583-ac3aeb778ca6", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-38-4628-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951778
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "66ed89f6-8ba2-49d0-af0f-4b6ebf2381bf", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-44-3919-01A-02D-1104-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950038
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "61c655ec-52b5-453f-a6cc-b2aba445b027", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-49-4486-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953877
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "d31aeefc-b59b-42e9-9919-750b17a70a3d", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-55-1595-01A-01D-0945-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "348b0f04-2759-5bb9-985f-bc13df75b529"
+    }, 
+    {
+      "annotation_id": "2a7c8d73-5b1b-5741-a54a-07224a4b7d05"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950641
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f77cf4d3-9829-4fd3-95a1-b29aed9e94b8", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-64-1678-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952370
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "bab43415-d413-40be-a4c0-2c40a52afe6a", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-44-2668-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950897
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "722d6818-f1cb-49f4-b68a-fd0a31304681", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4402-01A-01D-1205-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "e20d47b7-5d3b-554f-8330-4c9f8914ea21"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952226
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "b2c6939b-d8ec-4a07-8ea6-06c4553ee446", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z002-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9947624
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "a8f3da11-890c-4fff-bfc5-d99357dc4e46", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z051-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952596
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "cd0dc947-b708-464e-beb7-954c9d4583e7", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-73-4659-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952028
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "3bd6badb-27ff-4d8d-b206-4d28dc264862", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-44-3396-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949409
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f40301ba-831e-4afd-9ce8-5f3c1a05ff7e", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-44-2657-01A-01D-1104-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951036
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "494d50b6-578e-441b-8195-4b4d26c0d810", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z016-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9935859
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "673493f6-975c-49e8-934c-001e9a0fff90", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-67-3772-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950543
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "199386c2-bb53-4fad-a1b6-59ab216a4a50", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-55-1596-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953120
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "392ca7f3-d52e-4aa7-a9ba-4c7d9aa6401c", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z056-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950956
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "edd05f61-35f8-4133-a579-f9f32dff3bb8", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z012-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9928257
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "44b1d457-3a50-404e-b54c-ca619262bc2f", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-33-4547-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953971
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "34193c52-837c-4cf8-850a-00ae55be28ec", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-37-4133-01A-01D-1096-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951719
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "257650bd-2e2b-4680-b77b-f9268b3af4ee", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-34-2609-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "e354c548-e2e8-5a0f-ab88-3253c4959268"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951826
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "b09e872a-e837-49ec-8a27-84dcdcabf347", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3409-01A-01D-0979-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "2d2ddab3-b372-5c23-8592-dcb6b6e9947f"
+    }, 
+    {
+      "annotation_id": "0a6312bc-5eb8-560f-a986-9e41c552cc13"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951309
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "972476b7-d7f3-4865-b978-0c13f29457cb", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-22-1000-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "56eaaa75-aa40-544a-9dae-121f6bf582c5"
+    }, 
+    {
+      "annotation_id": "9f1ee78d-f022-5495-b6ad-fa6aa56bafdb"
+    }, 
+    {
+      "annotation_id": "f5589cae-732e-5b12-8ef0-d6fdd3c675e1"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951868
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "7d3e77cc-9603-4722-8e39-1912b678871b", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-34-2596-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952722
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a0b3fab8-7817-429b-aa34-7ef03e813313", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1079-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "19d0c10b-3998-5e07-8ab4-608b8cb8ef4d"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952382
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "43abe847-4ba7-466e-8283-5d7b80b999a7", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2756-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9954159
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "9293e197-e38a-4e19-a7d0-1b45d1ad48bd", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-43-3920-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951607
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "df7cfd84-a36a-44a0-b39f-a9ea1e0fd500", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2755-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953238
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "d38dbe20-bd5a-45d5-8db3-d5f777b454b6", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-46-3769-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949731
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "0d6a7cdf-daf5-4181-864f-430952e6fdb3", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2723-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951706
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "4d687740-96ca-4d78-8c78-1a2024ce6b6c", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2707-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953466
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "c1cac0d3-8074-4636-a0b9-47eeede6503b", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2706-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952887
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "1ee543d5-b8c0-4f79-8373-6bb6319f2ee2", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2744-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951424
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "ede3e359-bc49-4899-abe5-92dc65588286", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2790-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9946266
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "37f5457e-21d9-4b79-95d5-ded6f2e43087", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-43-2578-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "a172b257-ccbb-55a0-a16f-48115cd57753"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952933
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "585e6487-b0a3-4828-8a06-46bee01dff74", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2719-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953457
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "e1a2cccc-f0ce-4d23-bd58-e098009ebdac", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2787-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9948053
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "6fd72426-f6c8-47ca-a500-d5d3600b9b15", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2722-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951774
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "2e7cd434-0440-47a2-bc59-8805b8324ec4", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-22-4607-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953590
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "b9a81947-0348-4fe6-a0ac-d674cd13aa99", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1080-01A-01D-0689-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952783
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "94ee639e-3cb4-4943-b5f1-a89eb902153c", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z041-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953274
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "34040b83-7e8a-4264-a551-b16621843e28", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-05-4244-01A-01D-1104-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950901
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "e737f650-b72d-44e7-b750-558a56716803", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4432-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951454
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "5d3d3918-7da8-4147-90a3-dc015be1dfbe", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-37-4141-01A-02D-1096-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952122
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "a8e79b70-76c4-4d4f-8e1d-37daebf2a921", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2791-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950984
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "7e691df8-8ea6-472c-86bf-504c7ba6983d", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2716-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9954858
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "2f586b38-5be6-4ffa-8a0f-c870fdf3dad3", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-51-4079-01A-01D-1096-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951346
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "f03aacb8-5565-425f-a8d5-be1056f882e0", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-60-2725-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953441
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "09d08a43-4dcb-46d6-b2bd-f6245a6fff21", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-37-4132-01A-01D-1096-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952070
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "6b0b6fc0-d808-49c3-8f2a-e122bc3142f5", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-46-3767-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950458
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "aabc43bb-485a-49bc-b48a-d4e4ecd46d33", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2778-01A-02D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952886
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "aa53c701-4b65-4c26-a6f0-02a4498717a8", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.5.lvl-3.TCGA-22-4595-01A-01D-1198-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953494
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "0e2ee54a-51c9-4868-842d-a2a1c1cfb016", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1082-01A-01D-0689-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952131
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "c05b1a5c-2f6d-448a-94c8-58cce3d34b37", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z014-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949426
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "2079155a-d91d-4246-a038-01934a580f32", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-38-4626-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951128
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "1ab7ad70-0f80-41d8-8efa-3baebc8223cc", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-64-1680-01A-02D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951682
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f77b6930-a1ce-446e-a15d-c018cbbecfee", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-49-4510-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951802
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "28f899c5-ea17-4df6-83e6-e744e04d0ea1", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.1.lvl-3.TCGA-21-1070-01A-01D-0689-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "257ddf69-f7c7-5799-a84b-67a505b92507"
+    }, 
+    {
+      "annotation_id": "5e30050f-1b76-5b98-8818-da9963ad7f64"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951486
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "e58e8850-154f-4695-bee0-005c76410327", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2713-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953497
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "f1b357e4-d67a-42c9-b0b7-12f69fa3da58", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2770-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951901
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "03fa3310-406d-4c12-a409-136fc47d996d", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3419-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9947027
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "9b714a42-62e8-4b33-947e-6c4850725afd", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z015-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9946963
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "8a16ddb3-4861-4128-bed9-0b1f94fe8cf7", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-64-1677-01A-01D-0945-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "c3f5ce9b-99c6-5478-a140-84eb14e5c2bf"
+    }, 
+    {
+      "annotation_id": "d3f07810-6112-54c2-9a3b-76541fee9eb2"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951122
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "44dec838-b653-42a7-a58b-a1fd232cd68c", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4422-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952066
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "631dbd88-fc3e-4ed8-b4a7-2da137a49a11", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z008-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951713
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "51e49548-1ad0-4c83-ae8a-2fa95bf4712a", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z054-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9944830
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "0df573ee-28f0-4244-b434-09e6ca59fbf0", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-67-3771-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951812
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "03c3409a-9d16-41d0-9e26-f9fc2547a4c8", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-73-4677-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951411
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "ce15f31f-2bad-4485-96fa-495bfa262e66", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4403-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951180
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "f1985735-a188-4567-a88a-530f9b80291b", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-38-4630-01A-01D-1205-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "9d763d91-0c57-53a5-a7a8-96c65c0e3e74"
+    }, 
+    {
+      "annotation_id": "2ba6ae69-b6d1-53ae-b248-2a78ced7448c"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951229
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "257c9416-e86a-4c71-9dee-7212c2e56351", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z060-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9940954
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "0780eb43-d5b5-4c3d-9825-beacba5cc723", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-49-4501-01A-01D-1205-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "d51f66bd-4be8-52bd-9c38-5615e9825e9f"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953068
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "a19d84a1-b316-44d3-90b1-0d14b0fd7a14", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z013-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9933706
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "bd693ad9-6ce9-469a-a3f9-c2779c32d6bc", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z046-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9937204
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "762dea8a-5b41-4058-979a-b7876ed13d7e", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4395-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950552
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "fb79c491-7b01-42ae-8369-8364e442e31b", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-44-2665-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950696
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "3d0cbd55-4eda-4c52-93cc-a74381ea7c59", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z035-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950456
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "36ad7fc7-0cc1-4f01-aef1-f89b3cb4feac", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-67-3774-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9952558
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "e8b7a103-644f-4865-92f8-80b053bd5e17", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.2.lvl-3.TCGA-35-3615-01A-01D-0945-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951110
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "b2285924-9813-4f46-bb8f-91a0efd8a9b6", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-73-4668-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951001
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "81b71cff-da58-47cf-ad00-0a42489a7a0b", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z017-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949830
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "77bb204d-4e68-4c93-905f-9ef4c53b1ce2", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z059-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950648
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "733087d2-98ed-4ac7-8b48-98f0fe1c4c0f", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z034-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9939601
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "3434b91a-c05f-460f-a078-7b1bb6e7085d", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4382-01A-01D-1205-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "b05e5fa2-a21a-55e6-8aa1-5e83818cd897"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951612
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "68b86559-38b2-41f2-b66e-c3c2b628b14d", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-44-4112-01A-01D-1104-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950530
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "8b3a111a-aa46-41b9-bbec-28f4290da939", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z026-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9939816
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "6cf49cf0-de4c-4c90-8358-eae19c6206b0", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.3.lvl-3.TCGA-35-4123-01A-01D-1104-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951349
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "a3de401d-91fe-49a2-bb07-81c1a06506e6", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-05-4389-01A-01D-1205-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951915
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "127bf818-f7e5-46b5-a9de-39f6d96b8b83", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.4.lvl-3.TCGA-38-4629-01A-02D-1205-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "9895b432-b09e-5b6d-ab55-93cf26eed349"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950257
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "c390b6ad-14c8-49ea-9b38-798c9fad5b62", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z003-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9948203
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "61cd3ef8-eee4-4266-b01d-09338c89740a", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z052-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9944727
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "3136b041-24b9-42c5-b4a8-70f04c63a177", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z009-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949551
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "fae64c9d-5204-4dc6-a561-bf59506aabcc", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z029-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9950695
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "56027785-fb10-492c-b021-ea9e3a1979db", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z042-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9939226
+},{
+  "data_format": "TXT", 
+  "cases": [
+    {
+      "case_id": "62633a11-db23-481f-add3-853b2acac1bf", 
+      "project": {
+        "project_id": "TCGA-LUAD"
+      }
+    }
+  ], 
+  "access": "open", 
+  "file_name": "jhu-usc.edu_LUAD.HumanMethylation27.1.lvl-3.TCGA-17-Z045-01A-01D-0752-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949108
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "87ac0ad4-8c9d-409e-9a86-1d201d01769d", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-66-2789-01A-01D-0979-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951541
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "bff77f70-973a-4b49-8fd9-4a767f5df2c0", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-60-2696-01A-01D-0848-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "0d145a27-52f2-56a4-ba8f-f1cd3d0a0fb7"
+    }, 
+    {
+      "annotation_id": "140098ef-3eec-59d0-bde7-ce23997b25ff"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951902
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "8479ec58-f5e7-4d9d-a382-2688ed93ca8e", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.4.lvl-3.TCGA-51-4080-01A-01D-1096-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953852
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "1e3eb77c-d85b-437e-8b8c-12e5bd0e93dc", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2763-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9951754
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "7ccce724-d401-487d-b444-6edbbd032303", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.2.lvl-3.TCGA-66-2780-01A-01D-0848-05.gdc_hg38.txt", 
+  "data_category": "DNA Methylation", 
+  "file_size": 9953169
+},{
+  "data_format": "TXT", 
+  "access": "open", 
+  "cases": [
+    {
+      "case_id": "4e1ad82e-23c8-44bb-b74e-a3d0b1126b96", 
+      "project": {
+        "project_id": "TCGA-LUSC"
+      }
+    }
+  ], 
+  "file_name": "jhu-usc.edu_LUSC.HumanMethylation27.3.lvl-3.TCGA-18-3407-01A-01D-0979-05.gdc_hg38.txt", 
+  "annotations": [
+    {
+      "annotation_id": "5bd74ca8-27c4-56ff-b4f5-390298b5f8b0"
+    }, 
+    {
+      "annotation_id": "43074507-19cc-569c-9518-022654241c6a"
+    }
+  ], 
+  "data_category": "DNA Methylation", 
+  "file_size": 9949023
+}]
