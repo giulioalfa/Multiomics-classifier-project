@@ -20,7 +20,10 @@ Our first experiment was focused on how to improve the similarity links between 
 ## Approaches instructions
 Here we present a brief architecture description (for DL models) together with the instructions to run them. If you are using Linux-based system, add 'python' before every command.
 ### Libraries
-
+The Python libraries used are pandas, numpy, sklearn, pytorch, snfpy. Snfpy is a library that performs Similarity Network Fusion from multiple omics data. To install it use the following command:
+```
+pip install snfpy
+```
 
 
 ### Machine learning algorithms
