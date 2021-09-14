@@ -14,7 +14,7 @@ import torch
 import torch.nn.functional as F
 from mlp_gcn_models import init_model_dict, init_optim
 from utils import one_hot_tensor, cal_sample_weight,to_sparse
-from snfpy import snf
+import snf
 
 cuda = True if torch.cuda.is_available() else False
 auto_detect = torch.autograd.set_detect_anomaly(True)
