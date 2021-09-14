@@ -15,3 +15,5 @@ Here we present the code and the related user manual for the Multiomics Classifi
 ### Machine learning algorithms
 ### Deep Learning Algorithms
 
+*MORONET + Similarity
+It’s a four-branches architecture integrated with the VCDN . Every branch consists of a Graph Convolutional Network (GCN). Every GCN is made of three graph convolution, which is the multiplication between weighted data and adjacency matrix, after every graph convolution there is a leaky relu and a dropout. The VCDN, which is made of a fully connected layer, a leaky relu and another fully connected layer for class output, integrates the four branches. The first three branches inspect one single omic and the  cosine similarity respect to that omic. The fourth computes early aggregation, computes SNF with the similarity matrixes competed comic per comic with Euclidean metric. The loss chosen is a Cross Entropy Loss.
