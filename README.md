@@ -18,14 +18,22 @@ The project focus was to develop our own integration method for multi-omics clas
 Our first experiment was focused on how to improve the similarity links between the patients: MORONET performs a simple cosine similarity among patients, we wanted to explore the various and more complex solutions: we tried to substitute the cosin similarity with an Eucledian distance and then with the SNF (Similarity Newtork Fusion) algorithm. These approaches did not lead to notable improvements.  Noticing the great influence of the early aggregation method on the ML algorithms (results from aggregated data happen to be always higher than the single omic experiments), we tried this approach in a Deep Learning scenario, so we fed a Graph Convolutional Network (GCN) with the early aggregated data, but this approach has worsened the performance. Then we focused on architecture, replacing the GCNs with shallow MLPs, in order to understand the contribution of the Graph similarities and indeed the results has worsened of circa 2%. Finally, we tried to incorporate both the inter-omic patient similarity by replacing the GCNs with MLPs, but adding a 4th GCN branch with SNF logic. This last experiment gave us the most satisfactory results, which are greater than the MORONET ones in some cases.
 
 ## Approaches instructions
-Here we present a brief architecture description (for DL model) together with the running instructions.
+Here we present a brief architecture description (for DL models) together with the instructions to run them. If you are using Linux-based system, add 'python' before every command.
 ### Libraries
 
 
 
 ### Machine learning algorithms
-
-
+For Machine Learning algorithms, they are all wrapped in an unique '.py' file, to try the algorithms:
+'''ML/ML_algorithms.py'''
+The command will make appear a menu where the algorithm can be chosen and it will proceed to perform that model on all the datasets, showing the results.
+'''Select an alghorithm with corresponding number:  
+1 - SVM  
+2 - Random Forest  
+3 - KNN  
+4 - Ridge  
+5 - Lasso  
+Number: '''
 
 ### Deep Learning Algorithms
 
