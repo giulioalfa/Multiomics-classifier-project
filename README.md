@@ -23,4 +23,5 @@ The correnspondig code folder is called moronet_branchSNF. How to use it : open 
 
 * Graph Convolutional Network + SNF
 
-It's a single stream architecture. It consists of a single GCN which computes early aggretion of the three omics and SNF with the similarity matrixes computed omic per omic with Euclidean metric. The simple Classifier uses GCN outputs as inputs for class label prediction. 
+It's a single stream architecture. It consists of a single GCN which computes early aggretion of the three omics and SNF with the similarity matrixes computed omic per omic with Euclidean metric. The simple Classifier uses GCN outputs as inputs for class label prediction. The loss chosen is a Cross Entropy Loss. 
+The correnspondig code folder is called snf_gcn. How to use it : open the snf_gcn_main.py and substitute at line 5 the dataset name you want to use. The syntax is the following: data_folder = dataset_path +'LuadLusc100', substitute "LuadLusc100" with the chosen dataset.
