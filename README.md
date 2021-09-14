@@ -25,15 +25,17 @@ Here we present a brief architecture description (for DL models) together with t
 
 ### Machine learning algorithms
 For Machine Learning algorithms, they are all wrapped in an unique `.py` file, to try the algorithms:
-```ML/ML_algorithms.py```
-The command will make appear a menu where the algorithm can be chosen and it will proceed to perform that model on all the datasets, showing the results. ```
- Select an alghorithm with corresponding number:  
+```ML/ML_algorithms.py
+```
+The command will make appear a menu where the algorithm can be chosen and it will proceed to perform that model on all the datasets, showing the results. 
+```Select an alghorithm with corresponding number:  
 1 - SVM  
 2 - Random Forest  
 3 - KNN  
 4 - Ridge  
 5 - Lasso  
-Number: ```
+Number: 
+```
 
 
 ### Deep Learning Algorithms
