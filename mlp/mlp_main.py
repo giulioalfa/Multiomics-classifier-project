@@ -88,7 +88,11 @@ def prepare_trte_data(data_folder):
 
 def main(data_folder):
 
-    data_path = "Data/"
+    data_path = "../Data/"
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--dataset', type=str, default='BRCA')
+    args = parser.parse_args()
+    data_folder = args.dataset
     if data_folder == 'ROSMAP' or data_folder == 'LuadLusc100':
         num_class = 2
     elif data_folder == 'BRCA' or data_folder == '5000samples':
