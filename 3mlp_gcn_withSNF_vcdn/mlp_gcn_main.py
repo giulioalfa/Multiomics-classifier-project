@@ -1,4 +1,5 @@
 from mlp_gcn_train_test import train_test
+import argparse
 
 if __name__ == "__main__":
     dataset_path = "../Data/"  
