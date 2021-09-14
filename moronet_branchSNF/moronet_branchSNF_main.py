@@ -13,9 +13,9 @@ if __name__ == "__main__":
     lr_e = 5e-4
     lr_c = 1e-3
     
-    if data_folder == dataset_path + 'ROSMAP' or data_folder == dataset_path + 'GDCDATASET_N' or  data_folder == dataset_path + "LuadLusc100":
+    if data_folder == dataset_path + 'ROSMAP' or  data_folder == dataset_path + "LuadLusc100":
         num_class = 2
-    if data_folder == dataset_path + 'BRCA' or data_folder == dataset_path + 'DATASET':
+    if data_folder == dataset_path + 'BRCA' or data_folder == dataset_path + '5000samples':
         num_class = 5
     
     train_test(data_folder, view_list, num_class,
