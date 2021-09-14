@@ -7,7 +7,7 @@ import torch
 import torch.nn.functional as F
 from branchSNF_models import init_model_dict, init_optim
 from utils import one_hot_tensor, cal_sample_weight, gen_adj_mat_tensor, gen_test_adj_mat_tensor, cal_adj_mat_parameter, to_sparse
-from snfpy import snf
+import snf
 
 cuda = True if torch.cuda.is_available() else False
 
