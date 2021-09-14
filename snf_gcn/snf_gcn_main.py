@@ -1,8 +1,11 @@
 from snf_gcn_train_test import train_test
 
 if __name__ == "__main__":
-    dataset_path = "Data/"    
-    data_folder = dataset_path + 'LuadLusc100'
+    dataset_path = "../Data/"  
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--dataset', type=str, default='BRCA')
+    args = parser.parse_args()
+    data_folder = dataset_path + args.dataset
     view_list = [1,2,3]
     num_epoch_pretrain = 0
     num_epoch = 2500
@@ -10,7 +13,7 @@ if __name__ == "__main__":
     lr_e = 5e-4
     lr_c = 1e-3
     
-    if data_folder == dataset_path + 'ROSMAP' or data_folder == dataset_path + 'GDCDATASET_N' or data_folder == dataset_path + "LuadLusc100":
+    if data_folder == dataset_path + 'ROSMAP' or data_folder == dataset_path + "LuadLusc100":
         num_class = 2
     if data_folder == dataset_path + 'BRCA' or data_folder == dataset_path + '5000samples':
         num_class = 5
