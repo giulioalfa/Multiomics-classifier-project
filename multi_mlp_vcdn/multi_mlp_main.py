@@ -1,8 +1,11 @@
 from multi_mlp_train_test import train_test
 
 if __name__ == "__main__":
-    dataset_path = "Data/"    
-    data_folder = dataset_path +'BRCA'
+    dataset_path = "../Data/"  
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--dataset', type=str, default='BRCA')
+    args = parser.parse_args()
+    data_folder = dataset_path + args.dataset
     view_list = [1,2,3]
     num_epoch_pretrain = 0
     num_epoch = 2500
