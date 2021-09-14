@@ -15,7 +15,7 @@ The project focus was to develop our own integration method for multi-omics clas
 * Similarity network
 * Architecture and aggregation approaches  
   
-Our first experiment was focused on how to improve the similarity links between the patients: MORONET performs a simple cosine similarity among patients, we wanted to explore the various and more complex solutions: we tried to substitute the cosin similarity with an Eucledian distance and then with the SNF (Similarity Newtork Fusion) algorithm. These approaches did not lead to notable improvements.  Noticing the great influence of the early aggregation method on the ML algorithms (results from aggregated data happen to be always higher than the single omic experiments), we tried this approach in a Deep Learning scenario, so we fed a Graph Convolutional Network (GCN) with the early aggregated data, but this approach has worsened the performance. Then we focused on architecture, replacing the GCNs with shallow MLPs, in order to understand the contribution of the Graph similarities and indeed the results has worsened of circa 2%. Finally, we tried to incorporate both the inter-omic patient similarity by replacing the GCNs with MLPs, but adding a 4th GCN branch with SNF logic. This last experiment gave us the most satisfactory results, which are greater than the MORONET ones in some cases.
+Our first experiment was focused on how to improve the similarity links between the patients: MORONET performs a simple cosine similarity among patients, we wanted to explore the various and more complex solutions: we tried to substitute the cosine similarity with an Eucledian distance and then with the SNF (Similarity Newtork Fusion) algorithm. These approaches did not lead to notable improvements.  Noticing the great influence of the early aggregation method on the ML algorithms (results from aggregated data happen to be always higher than the single omic experiments), we tried this approach in a Deep Learning scenario, so we fed a Graph Convolutional Network (GCN) with the early aggregated data, but this approach has worsened the performance. Then we focused on architecture, replacing the GCNs with shallow MLPs, in order to understand the contribution of the Graph similarities and indeed the results has worsened of circa 2%. Finally, we tried to incorporate both the inter-omic patient similarity by replacing the GCNs with MLPs, but adding a 4th GCN branch with SNF logic. This last experiment gave us the most satisfactory results, which are greater than the MORONET ones in some cases.
 
 ## Approaches instructions
 Here we present a brief architecture description (for DL models) together with the instructions to run them. If you are using Linux-based system, add 'python' before every command.
@@ -45,13 +45,27 @@ Number:
 
 ### Deep Learning Algorithms
 
+* Multi-layer perceptron
+
+It's a shallow basic neural network with three fully connected layes, leaky relu and dropout. Multi-omics data aggregation is performed and then data are feed to ne net for label predction. The loss chosen is a Cross Entropy Loss.
+The correnspondig code folder is called mlp. How to use it : 
+
+
 * MORONET + Similarity 
 
-It’s a four-branches architecture integrated with the VCDN . Every branch consists of a Graph Convolutional Network (GCN). Every GCN is made of three graph   convolution, which is the multiplication between weighted data and adjacency matrix, after every graph convolution there is a leaky relu and a dropout. Every GCN has its own Classifier, a fully connected layer which takes as input the output of GCN, to predict class labels. The VCDN, which is made of a fully connected layer, a leaky relu and another fully connected layer for class output, integrates the four branches to guess the class label. The first three branches inspect one single omic and the  cosine similarity respect to that omic. The fourth computes early aggregation, computes SNF with the similarity matrixes computed omic per omic with Euclidean metric. The loss chosen is a Cross Entropy Loss.
-The correnspondig code folder is called moronet_branchSNF. How to use it : open the moronet_branchSNF_main.py and substitute at line 5 the dataset name you want to use. The syntax is the following: data_folder = dataset_path +'LuadLusc100', substitute "LuadLusc100" with the chosen dataset. 
+It’s a four-branches architecture integrated with the VCDN. Every branch consists of a Graph Convolutional Network (GCN). Every GCN is made of three graph   convolution, which is the multiplication between weighted data and adjacency matrix, after every graph convolution there is a leaky relu and a dropout. Every GCN has its own Classifier, a fully connected layer which takes as input the output of GCN, to predict class labels. The VCDN, which is made of a fully connected layer, a leaky relu and another fully connected layer for class output, integrates the four branches to guess the class label. The first three branches inspect one single omic and the  cosine similarity respect to that omic. The fourth computes early aggregation, computes SNF with the similarity matrixes computed omic per omic with Euclidean metric. The loss chosen is a Cross Entropy Loss.
+The correnspondig code folder is called moronet_branchSNF. How to use it : 
 
 
 * Graph Convolutional Network + SNF
 
-It's a single stream architecture. It consists of a single GCN which computes early aggretion of the three omics and SNF with the similarity matrixes computed omic per omic with Euclidean metric. The simple Classifier uses GCN outputs as inputs for class label prediction. The loss chosen is a Cross Entropy Loss. 
-The correnspondig code folder is called snf_gcn. How to use it : open the snf_gcn_main.py and substitute at line 5 the dataset name you want to use. The syntax is the following: data_folder = dataset_path +'LuadLusc100', substitute "LuadLusc100" with the chosen dataset.
+It's a single stream architecture. It consists of a single GCN which computes early aggregation of the three omics and SNF with the similarity matrixes computed omic per omic with Euclidean metric. The simple Classifier uses GCN outputs as inputs for class label prediction. The loss chosen is a Cross Entropy Loss. 
+The correnspondig code folder is called snf_gcn. How to use it : 
+
+* 3-branch MLP + VCDN
+
+Every branch is a multi-layer perceptron as described in the first point. Every neural net inspects one single omic giving its label probability distribution. The labels distrbutions of the three braches are then integrated by the VCDN to the final class label prediction. The loss chosen is a Cross Entropy Loss. The correnspondig code folder is called multi_mlp_vcdn. How to use it : 
+
+* 3-branch MLP + 4th branch GCN with SNF + VCDN
+
+It's composed of four branches: the first three are basic multi-layer perceptrons, the fourth is a GCN. Every perceptron inspects a single omic and gives its label distribution. In the fourth branch early aggregation and SNF are computed and fed to the GCN twhose output goes through the simple Classifier for label predction. These four label distributions are integrated by the VCDN for the final label prediction. 
