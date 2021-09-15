@@ -13,11 +13,12 @@ Here we present the code and the related user manual for the Multiomics Classifi
 Here we present a brief architecture description (for DL models) together with the instructions to run them.
 ### Libraries
 The Python libraries used are 
-* pandas
-* numpy
-* sklearn
-* pytorch
-* snfpy  
+* Pandas
+* Numpy
+* Sklearn
+* Pytorch
+* Snfpy  
+  
 Snfpy is a library that performs Similarity Network Fusion from multiple omics data. To install it use the following command on the prompt:
 ```
 pip install snfpy
